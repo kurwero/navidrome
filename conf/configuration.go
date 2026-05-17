@@ -774,7 +774,7 @@ func setViperDefaults() {
 	viper.SetDefault("enablefavourites", true)
 	viper.SetDefault("enablestarrating", true)
 	viper.SetDefault("enableuserediting", true)
-	viper.SetDefault("defaulttheme", "Dark")
+	viper.SetDefault("defaulttheme", "Nautiline")
 	viper.SetDefault("defaultlanguage", "")
 	viper.SetDefault("defaultuivolume", consts.DefaultUIVolume)
 	viper.SetDefault("uisearchdebouncems", consts.DefaultUISearchDebounceMs)
